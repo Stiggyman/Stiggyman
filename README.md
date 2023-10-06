@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stiggyman
-- 👀 I’m interested in C# and ASPDOTNET Development
-- 🌱 I’m currently learning MAUI
+- 👀 I’m interested in C# and Python Development
+- 🌱 I’m currently learning Python 3.12
 - 📫 How to reach me mail me. stig0574@gmail.com
 
 <!---
