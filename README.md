@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Stiggyman
+- 🏢 I work as a Sysadmin day to day
 - 👀 I’m interested in C# and Python Development
 - 🌱 I’m currently learning Python 3.12
 - 📫 How to reach me mail me. stig0574@gmail.com
